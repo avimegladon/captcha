@@ -1,1 +1,2 @@
-captcha class
+usage
+<img src="captcha.php" />
