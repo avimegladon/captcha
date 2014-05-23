@@ -1,2 +1,3 @@
 usage
-<img src="captcha.php" />
+< img src="captcha.php" / >
+ 
